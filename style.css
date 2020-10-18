@@ -1,0 +1,55 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 1px;
+}
+.main {
+  height: 40vh;
+  padding-left: 30px;
+}
+
+.sub {
+  height: 60vh;
+  margin-bottom: 50px;
+}
+
+.part-1 {
+  float: left;
+  width: 50%;
+  background-color: rgb(89, 176, 176);
+  height: 55vh;
+}
+
+.part-2 {
+  float: left;
+  width: 50%;
+  background-color: rgb(108, 188, 188);
+  height: 55vh;
+}
+
+.pad {
+  padding: 30px;
+  color: white;
+}
+
+.dollar {
+  font-size: 2.8rem;
+}
+
+.pm {
+  vertical-align: center;
+}
+
+button {
+  width: 17rem;
+  height: 3rem;
+  border: none;
+  font-size: 1rem;
+  border-radius: 6px;
+  background-color: rgb(164, 235, 21);
+}
+.container {
+  color: rgb(246, 246, 246);
+  line-height: 2rem;
+}
